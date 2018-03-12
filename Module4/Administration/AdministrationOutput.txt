@@ -1,0 +1,26 @@
+Piet van Gogh has an average of 6-
+    -^^--__-_-
+    Vincent Appel
+    Johannes Mondriaan
+Karel van Rijn has an average of 7
+    -^-----___
+Herman Vermeer has an average of 4.5
+    ------___-
+    Johannes Brood
+Johannes Brood has an average of 1
+    -^-_-___-_
+    Herman Vermeer
+
+Piet van Gogh has an average of: 6-
+	-^^--__-_-
+	Vincent Appel
+	Johannes Mondriaan
+Karel van Rijn has an average of: 7
+	-^-----___
+	No matches found
+Herman Vermeer has an average of: 4.5
+	------___-
+	Johannes Brood
+Johannes Brood has an average of: 1
+	-^-_-___-_
+	Herman Vermeer

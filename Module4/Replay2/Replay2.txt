@@ -1,0 +1,66 @@
+black	32	move c 4 d 4
+white	4198	move c 3 d 4 
+black	0	move c 2 c 3 
+white	1383	move b 2 c 3 
+black	4	move a 2 b 2 
+white	1092	move a 1 b 2 
+black	5	move d 3 d 4 
+white	1464	move a 3 a 2 
+black	1	move b 3 c 3 
+white	3494	move d 2 c 2 
+black	0	move b 1 b 2 c 2 
+white	981	move c 1 b 1 b 2 
+black	0	move d 1 d 2 
+white	1056	move e 1 d 1 
+black	1	move e 6 e 5 
+white	871	move a 4 b 3 c 2 
+black	1	pass
+white	2613	move e 2 d 2 
+black	0	move f 1 e 2 
+white	1143	move g 1 f 1 
+black	2	pass
+white	3126	move b 4 c 3 
+black	0	pass
+white	3070	move e 3 e 2 d 3 
+black	0	move f 2 e 3 
+white	5573	move f 3 f 2 e 3 
+black	0	move g 2 f 3 
+white	1731	move f 4 f 3 e 4 d 4 c 4 
+black	0	move g 3 f 4 
+white	1231	move h 1 g 2 
+black	3	pass
+white	4523	move g 4 g 3 f 4 
+black	2	move h 2 g 3 f 4 
+white	987	move h 3 h 2 g 3 
+black	0	move h 4 g 4 
+white	1087	move h 5 h 4 g 4 
+black	2	pass
+white	3178	move g 5 f 4 
+black	2	pass
+white	3055	move d 6 e 5 d 5 
+black	0	move c 6 d 6 
+white	5047	move e 7 e 6 
+black	0	move f 6 e 6 
+white	4703	move f 7 e 6 
+black	0	move f 8 f 7 e 7 
+white	2863	move e 8 e 7 
+black	0	move d 8 e 8 e 7 
+white	5318	move d 7 d 6 
+black	1	move c 5 d 6 
+white	2470	move b 5 c 6 c 5 
+black	2	move b 6 c 6 
+white	6323	move c 7 d 6 c 6 
+black	1	move b 7 c 7 d 7 
+white	1718	move a 8 b 7 
+black	0	move a 7 b 7 
+white	897	move a 6 a 7 b 6 
+black	5	move a 5 b 6 
+white	2383	move b 8 c 7 b 7 b 6 
+black	1	move f 5 e 5 d 5 c 5 b 5 e 6 
+white	2613	move g 6 f 5 f 6 e 6 
+black	0	move c 8 c 7 c 6 
+white	3909	move g 8 f 7 f 8 e 8 d 8 c 8 
+black	1	move h 6 g 6 f 6 e 6 d 6 
+white	1070	move h 7 h 6 g 6 
+black	0	move g 7 f 7 
+white	974	move h 8 g 7 f 6 e 5 

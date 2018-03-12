@@ -1,0 +1,8 @@
+Piet van Gogh___5 6 7 4 5 6
+5=20=22=10=2=0=0=1=0=1;Vincent Appel,Johannes Mondriaan
+Karel van Rijn___7 8 6 6
+2=30=15=8=4=3=2=0=0=0;
+Herman Vermeer_4 4 2 4 5 6 6
+9=10=10=5=1=1=0=0=0=1;Johannes Brood
+Johannes Brood__1
+12=22=12=0=2=0=0=0=1=0;Herman Vermeer
